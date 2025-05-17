@@ -26,13 +26,13 @@
 你可以通过以下任一命令下载脚本：
 
 ```bash
-wget -O anytls_manager.sh [https://raw.githubusercontent.com/tianrking/ANYTLS-GO/main/anytls_manager.sh](https://raw.githubusercontent.com/tianrking/ANYTLS-GO/main/anytls_manager.sh)
+wget -O anytls_manager.sh https://raw.githubusercontent.com/tianrking/ANYTLS-GO/main/anytls_manager.sh
 ````
 
 或者
 
 ```bash
-curl -o anytls_manager.sh -L [https://raw.githubusercontent.com/tianrking/ANYTLS-GO/main/anytls_manager.sh](https://raw.githubusercontent.com/tianrking/ANYTLS-GO/main/anytls_manager.sh)
+curl -o anytls_manager.sh -L https://raw.githubusercontent.com/tianrking/ANYTLS-GO/main/anytls_manager.sh
 ```
 
 ### 2\. 赋予执行权限
