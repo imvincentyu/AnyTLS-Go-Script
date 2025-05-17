@@ -53,6 +53,9 @@ chmod +x anytls_manager.sh
 
     或者直接运行 `./anytls_manager.sh`
 
+    ![media/help.png](media/help.png)
+
+
   * **安装或更新 AnyTLS-Go 服务**:
 
     ```bash
@@ -106,6 +109,8 @@ chmod +x anytls_manager.sh
     ```
 
     此命令会要求你输入之前设置的密码。
+    
+    ![media/qr.png](media/qr.png)
 
 ## 支持的客户端
 
